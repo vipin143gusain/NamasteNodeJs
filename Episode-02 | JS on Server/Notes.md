@@ -242,5 +242,5 @@ console.log(math.add(2, 3));
 ✅ Express.js
 ✅ File system
 ✅ Streams
-✅ REST API in Node.js
+✅ REST API in Node js
 
