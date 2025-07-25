@@ -1,6 +1,3 @@
-Here are **interview questions** based on the NamasteDev **"JS on Server"** article/video, along with **simple and clear answers**:
-
----
 
 ## 🔹 1. What is Node.js?
 

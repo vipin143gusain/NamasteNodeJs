@@ -1,6 +1,3 @@
-Here are **interview-style questions** based on the *“Welcome to Namaste Node.js”* curriculum (including Seasons 1–3 from the NamasteDev website) along with **simple and easy answers**. These questions cover Node.js fundamentals, Express, design architecture, and deployment.
-
----
 
 ## 🔹 Season 1: Node.js Fundamentals
 
